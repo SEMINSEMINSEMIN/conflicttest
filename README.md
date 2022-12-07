@@ -1,3 +1,3 @@
 # conflicttest
 
--   hello
+-   hello 2
